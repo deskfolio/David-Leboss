@@ -1,0 +1,10 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "accessibility-label" : "Smirking face while holding a chapstick with left hand",
+    "filename" : "David Lechapstick.png"
+  }
+}
