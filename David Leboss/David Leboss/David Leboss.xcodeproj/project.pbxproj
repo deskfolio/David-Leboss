@@ -106,12 +106,12 @@
 				TargetAttributes = {
 					A9672ADE1E6149F7009768E0 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 4K7B5NTS94;
+						DevelopmentTeam = P6RAN5QK24;
 						ProvisioningStyle = Automatic;
 					};
 					A9672AE21E6149F7009768E0 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 4K7B5NTS94;
+						DevelopmentTeam = P6RAN5QK24;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -256,7 +256,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = 4K7B5NTS94;
+				DEVELOPMENT_TEAM = P6RAN5QK24;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.deskfolio.DavidLeboss.StickerPackExtension;
@@ -270,7 +270,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = 4K7B5NTS94;
+				DEVELOPMENT_TEAM = P6RAN5QK24;
 				INFOPLIST_FILE = StickerPackExtension/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.deskfolio.DavidLeboss.StickerPackExtension;
@@ -285,7 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 4K7B5NTS94;
+				DEVELOPMENT_TEAM = P6RAN5QK24;
 				INFOPLIST_FILE = "David Leboss/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.deskfolio.DavidLeboss;
@@ -299,7 +299,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_IDENTITY = "iPhone Distribution";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = 4K7B5NTS94;
+				DEVELOPMENT_TEAM = P6RAN5QK24;
 				INFOPLIST_FILE = "David Leboss/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.deskfolio.DavidLeboss;
